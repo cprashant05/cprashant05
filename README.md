@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Prashant Chatterjee. I am an aspiring Data Engineer. I have the required necessary skills in cloud computing services platform, Big Data and RDBMS systems. 
-I am Well versed with Apache Hadoop, Spark(Pyspark), Spark Streaming, Hive, Sqoop, ETL, AWS, SQL, NoSQL,and Python. 
+I am well versed with Apache Hadoop, Spark(Pyspark), Spark Streaming, Hive, Sqoop, ETL, AWS, SQL, NoSQL,and Python. 
 
 Presently pursuing Executive Post Graduation in Data Science from IIIT-Bangalore.
 
