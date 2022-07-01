@@ -8,7 +8,7 @@ Presently pursuing Executive Post Graduation in Data Science from IIIT-Bangalore
 I am looking for an internship/job where I can implement my learning and skills which would help me grow as a data engineer. I am confident that I will be a proven 
 asset for the organization.
 
-- 🔭 I’m currently working on -- **a project Data Capture and Analysis of Cab Rides**
+- 🔭 I’m currently working on -- **a project on Data Capture and Analysis of Cab Rides**
 
 - 🌱 I’m currently -- **Enhancing my skills including Spark Streaming, Apache Kafka and Apache Airflow**
 
